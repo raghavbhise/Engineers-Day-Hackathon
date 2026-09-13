@@ -73,7 +73,6 @@ The analysis is designed to answer the following questions:
 
 12. What are the monthly and quarterly sales and profit trends, and are there identifiable seasonal patterns?
 
-13. What are the Month-over-Month (MoM) and Year-over-Year (YoY) changes in revenue and profit?
 
 ---
 
